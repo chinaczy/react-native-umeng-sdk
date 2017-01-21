@@ -1,26 +1,26 @@
+
 {
   "name": "react-native-umeng-sdk",
-  "version": "1.5.0",
-  "description": "umeng SDK",
+  "version": "1.6.0",
+  "description": ".",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liuchungui/react-native-umeng-sdk.git"
+    "url": "git+https://github.com/chinaczy/react-native-umeng-sdk.git"
   },
   "keywords": [
-    "umeng",
-    "sdk",
-    "umeng-sdk",
-    "react-native",
-    "react-native-umeng-sdk"
+    "umeng","push"
   ],
-  "author": "liuchungui",
+  "author": "czy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/liuchungui/react-native-umeng-sdk/issues"
+    "url": "https://github.com/chinaczy/react-native-umeng-sdk/issues"
   },
-  "homepage": "https://github.com/liuchungui/react-native-umeng-sdk#readme"
+  "dependencies": {
+    
+  },
+  "homepage": "https://github.com/chinaczy/react-native-umeng-sdk#readme"
 }
